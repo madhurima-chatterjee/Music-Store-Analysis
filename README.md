@@ -33,5 +33,5 @@ This repository contains the SQL scripts and documentation for analyzing data fr
 - Implement predictive analytics models for sales forecasting and inventory optimization.
 - Develop interactive dashboards or visualization tools to communicate insights more effectively.
 
-## Contributors
+## Contributor
 - Madhurima Chatterjee :)
